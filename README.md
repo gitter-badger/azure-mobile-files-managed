@@ -1,5 +1,7 @@
 # Microsoft Azure Mobile Services File Management SDK
 
+[![Join the chat at https://gitter.im/fabiocav/azure-mobile-files-managed](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/fabiocav/azure-mobile-files-managed?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The Microsoft Azure Mobile Apps File Management SDK simplifies file/blob management for applications using Microsoft Azure Mobile Apps. To learn more, visit our [Developer Center](http://azure.microsoft.com/en-us/develop/mobile).
 
 ## Getting Started
